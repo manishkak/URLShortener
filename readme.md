@@ -1,3 +1,8 @@
+web.php- has all the routes
+UrlShort.php- Model file used
+UrlsController.php- Controller file used; methods short, generateShortUrl and show used
+All 3 template files used are inside /resources/views/url (layout.blade.php is the base layout file, geturl.blade where the url is entered, display.blade displays the shortened url)
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
